@@ -1,0 +1,5 @@
+#fav-meal {
+  display: grid;
+  padding-top: 1.5em;
+  grid-row-gap: 1.5em;
+}
